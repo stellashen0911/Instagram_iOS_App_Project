@@ -6,6 +6,7 @@ target 'instagram_project' do
     use_frameworks!
     pod 'AlamofireImage'
     pod 'Parse'
+    pod 'MessageInputBar'
 
   # Pods for instagram_project
 
